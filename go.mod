@@ -1,4 +1,4 @@
-module github.com/a8m/kinesis-producer
+module github.com/Surfline/kinesis-producer
 
 require (
 	github.com/aws/aws-sdk-go v1.21.10
